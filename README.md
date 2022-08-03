@@ -1,4 +1,4 @@
-### Hi, I'm hhmy👋
+### Hello! 👋
 
 - 🍻 Graduate student of 🇨🇳 [SUDA](https://www.suda.edu.cn/)
-- Working as an intern at ByteDance
+- Working as an intern at ByteDance 
