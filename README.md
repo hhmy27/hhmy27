@@ -1,4 +1,10 @@
-# Hi 👋
+# Hi there👋
+A Indie Developer, Build something interesting
 
+Prev @ByteDance, @Tesla
 
-公众号：code路漫漫
+---
+
+twitter: https://x.com/HammingWontStop
+
+blog: https://nobelium-hhmy27.vercel.app
