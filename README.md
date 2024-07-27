@@ -1,10 +1,8 @@
 # Hi there👋
 A Indie Developer, Build something interesting
 
+LaxtTime - remember the last time you did anything: [laxttime.top](https://www.laxttime.top)
+
 Prev @ByteDance, @Tesla
 
 ---
-
-twitter: https://x.com/HammingWontStop
-
-blog: https://nobelium-hhmy27.vercel.app
